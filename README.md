@@ -1,2 +1,2 @@
-# rudiardihamzah
+# Rudi Ardi Hamzah
 My Github
